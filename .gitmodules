@@ -1,0 +1,4 @@
+[submodule "test3"]
+	path = test3
+	url = git@github.com:sylvaingauthier/test3.git
+	branch = main
